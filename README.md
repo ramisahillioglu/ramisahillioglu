@@ -17,18 +17,6 @@ Hello! I'm Rami Sahillioğlu, a data analyst seeking new opportunities. On this 
 - **Databases:** MySQL, PostgreSQL
 - **Tools:** Jupyter Notebook, Git, Excel
 
-## Projects
-
-### 1. [Capstone Project](link)
-**Description:** In this project, I worked on "Northwind" dataset and achieved some useful results. You can find detailed information about the methods used and the results in the files below.
-
-**Technologies Used:** Python, Pandas, Matplotlib
-
-**Files:**
-- [analysis_notebook.ipynb](link)
-- [data_cleaning.py](link)
-- [README.md](link)
-
 ## Contact
 
 If you have any questions about my projects or would like to collaborate, feel free to reach out.
